@@ -4,3 +4,7 @@
 - It includes python coding, Pandas, and SQL
 - It includes Kaggle projects for machine learning practice
 - It includes interview common questions, including case study, and behavior questions.
+
+sdfdasf
+
+# Refuse to add
