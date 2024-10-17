@@ -10,3 +10,5 @@ sdfdasf
 
 # update
 
+# Python
+1. `# %%` can be used to mimic cells in vs code.
