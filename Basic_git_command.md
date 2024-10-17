@@ -1,6 +1,6 @@
 # Git command 
-```git add .```
+`git add .`
 
-```git commit -m "message description"```
+`git commit -m "message description"`
 
-```git push```
+`git push`
