@@ -1,7 +1,7 @@
 # General frame to answer questions
 
 ## Case Study Interview
-We need to show that we have scientific method to solve a problem. 
+We need to show that we have scientific/structured method to solve a problem. 
 - Fit the problem into a framework (how? pending)
 - Scope of the problem
 - List possible reasons which causes the issue
